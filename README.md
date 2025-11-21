@@ -4,6 +4,7 @@ To give a better sense of my capabilities, I’ve attached the work outside of w
 
 * An Excel work from my spreadsheet modeling course (note: there are 20 sheets within)
 * A Power BI project where I analyzed over 30,000 rows of shipment data (file attached: sample-shipments-data-all-Apr-2025.xlsx) and created a dashboard (PDF attached)
+
           [ Developed an interactive Sales and Profit Analysis Dashboard in Power BI to analyze product performance, shipment distribution, and regional sales trends.
           Data Cleaning & Transformation: Imported raw shipment data from Excel and performed data cleaning to handle missing values and inconsistencies.
           Data Modeling: Designed a relational data model connecting tables such as products, salespersons, shipments, and locations to enable dynamic cross-filtering.
