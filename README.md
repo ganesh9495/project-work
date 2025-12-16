@@ -1,6 +1,7 @@
 
-The University of Texas at Dallas
+The University of Texas at Dallas: 
 Master of Science in Supply Chain Management
+
 My Courses:
 Spring 2025:
 OPRE 6302 Operations Management;
