@@ -3,16 +3,16 @@ The University of Texas at Dallas
 Master of Science in Supply Chain Management
 My Courses:
 Spring 2025:
-OPRE 6302 Operations Management
-OPRE 6362 Project Management in Engineering and Operations
-OPRE 6301 Statistics and Data Analysis
-OPRE 6371 Purchasing, Sourcing and Contract Management
+OPRE 6302 Operations Management;
+OPRE 6362 Project Management in Engineering and Operations;
+OPRE 6301 Statistics and Data Analysis;
+OPRE 6371 Purchasing, Sourcing and Contract Management;
 
 Fall 2025:
-OPRE 6370 Global Logistics and Transportation
-OPRE 6369 Supply Chain Software with SAP: Planning, AI, and Blockchain Innovations
-OPRE 6332 Spreadsheet Modeling and Analytics
-OPRE 6393 Database Foundations
+OPRE 6370 Global Logistics and Transportation;
+OPRE 6369 Supply Chain Software with SAP: Planning, AI, and Blockchain Innovations;
+OPRE 6332 Spreadsheet Modeling and Analytics;
+OPRE 6393 Database Foundations;
 
 My recent project samples of my skills in tools like Advanced Excel, SQL, Power BI, Microsoft Project, SAP Ariba, SAP (PP/SD/MM) modules and continuous improvement techniques.
 
